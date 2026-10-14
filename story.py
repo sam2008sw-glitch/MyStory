@@ -1,5 +1,7 @@
 import random
 
+print("Welcome to the Adventure Game!")
+
 hero_name = input("What is the hero's name? ")
 hero_age = int(input("How old is the hero? "))
 gold_amount = int(input("How much gold does the hero have? "))
